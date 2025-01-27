@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 shivang Music Bot 🎵</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
@@ -65,7 +65,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/sudhir18sn/new && cd new
    ```
 6. **Install Requirements**
    ```bash
